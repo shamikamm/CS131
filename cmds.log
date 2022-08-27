@@ -1,0 +1,15 @@
+    1  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    2  mkdir Ws1
+    3  pwd
+    4  cd wS1/
+    5  cs Ws1/
+    6  cd Ws1/
+    7  pwd
+    8  ls -latr
+    9  git init
+   10  git branch
+   11  vi fruit.txt
+   12  git status
+   13  git add fruit.txt
+   14  git status
+   15  history > cmds.log

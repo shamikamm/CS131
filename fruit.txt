@@ -1,0 +1,10 @@
+fruits
+apple
+banana
+orange
+grapes
+pineapple
+plums
+strawberry
+blueberry
+
